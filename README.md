@@ -20,4 +20,4 @@
 
 ##
 
-![Snake animation](https://github.com/Arthur-FS/Arthur-Fs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Arthur-FS/Arthur-FS/blob/output/github-contribution-grid-snake.svg)
